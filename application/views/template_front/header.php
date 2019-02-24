@@ -134,7 +134,7 @@ if ($uri == '' || $uri == 'home') {
                 <i>Chat dengan Kami, via Whatsapp ?</i>
             </p>
             <p class="mail">
-                <a href="https://api.whatsapp.com/send?phone=6285647884918&text=Saya%20ingin%20bertanya%20tentang%20daycare%20Alifa" target="_blank">085-647-884-918 <img src="<?=base_url('img/logo-wa.png');?>"></a> 
+                <a href="https://api.whatsapp.com/send?phone=6283867295429&text=Saya%20ingin%20bertanya%20tentang%20daycare%20Alifa" target="_blank">0838-6729-5429 <img src="<?=base_url('img/logo-wa.png');?>"></a> 
             </p>
         </div>
     </div>
